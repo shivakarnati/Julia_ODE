@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Git Site
+
+Here you can find my recent project on simulation and visualization developed based on Julia programming language
 
 You can use the [editor on GitHub](https://github.com/shivakarnati/shivakarnati.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
