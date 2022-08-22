@@ -1,4 +1,4 @@
-## Welcome to My Git Site
+## Karnati's Project Site
 
 Here you can find my recent projects...
 
